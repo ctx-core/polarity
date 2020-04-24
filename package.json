@@ -34,7 +34,7 @@
 		"@ctx-core/number": "^3.1.15"
 	},
 	"devDependencies": {
-		"svelte": "^3.20.1",
+		"svelte": "^3.21.0",
 		"typescript": "^3.8.3"
 	},
 	"gitHead": "143bee5d708749398c148d42e8134141b7ecb3d7"
