@@ -2,6 +2,7 @@
 	"name": "@ctx-core/polarity",
 	"version": "8.1.75",
 	"description": "ctx-core polarity",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
