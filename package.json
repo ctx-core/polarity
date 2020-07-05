@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "8.1.84",
+	"version": "8.1.85",
 	"description": "ctx-core polarity",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -29,9 +29,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/html": "^6.1.85",
+		"@ctx-core/html": "^6.1.86",
 		"@ctx-core/logger": "^3.1.18",
-		"@ctx-core/number": "^3.1.21"
+		"@ctx-core/number": "^3.1.22"
 	},
 	"devDependencies": {
 		"svelte": "^3.23.2",
