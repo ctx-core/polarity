@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "8.1.109",
+	"version": "8.1.110",
 	"description": "ctx-core polarity",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/html": "^6.1.109",
+		"@ctx-core/html": "^6.1.110",
 		"@ctx-core/logger": "^3.1.21",
 		"@ctx-core/number": "^4.0.1"
 	},
