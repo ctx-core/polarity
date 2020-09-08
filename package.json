@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "8.1.117",
+	"version": "8.1.118",
 	"description": "ctx-core polarity",
 	"main": "lib.js",
 	"module": "lib.js",
