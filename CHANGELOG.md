@@ -1,5 +1,11 @@
 # @ctx-core/polarity
 
+## 9.0.1
+
+### Patch Changes
+
+- fix: index.js/index.ts are the main files for the package
+
 ## 9.0.0
 
 ### Major Changes
