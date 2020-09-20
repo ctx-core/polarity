@@ -1,40 +1,40 @@
 {
-  "name": "@ctx-core/polarity",
-  "version": "9.0.3",
-  "description": "ctx-core polarity",
-  "keywords": [
-    "ctx-core",
-    "polarity"
-  ],
-  "homepage": "https://github.com/ctx-core/polarity#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/polarity/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/polarity/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "index.js",
-  "module": "index.js",
-  "types": "index.ts",
-  "scripts": {
-    "build": "npm run clean && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "./node_modules/.bin/tsc -b",
-    "exec": "$@",
-    "prepublishOnly": "npm run compile"
-  },
-  "dependencies": {
-    "@ctx-core/html": "workspace:^7.0.2",
-    "@ctx-core/number": "workspace:^5.0.0"
-  },
-  "devDependencies": {
-    "svelte": "~3.25.1",
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  }
+	"name": "@ctx-core/polarity",
+	"version": "9.0.3",
+	"description": "ctx-core polarity",
+	"keywords": [
+		"ctx-core",
+		"polarity"
+	],
+	"homepage": "https://github.com/ctx-core/polarity#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/polarity/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/polarity/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
+	},
+	"dependencies": {
+		"@ctx-core/html": "workspace:^7.0.2",
+		"@ctx-core/number": "workspace:^5.0.0"
+	},
+	"devDependencies": {
+		"svelte": "~3.25.1",
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
