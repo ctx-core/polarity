@@ -1,5 +1,13 @@
 # @ctx-core/polarity
 
+## 9.0.2
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/html@7.0.1
+
 ## 9.0.1
 
 ### Patch Changes
