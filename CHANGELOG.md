@@ -1,5 +1,11 @@
 # @ctx-core/polarity
 
+## 9.0.6
+
+### Patch Changes
+
+- @ctx-core/html@7.0.5
+
 ## 9.0.5
 
 ### Patch Changes
