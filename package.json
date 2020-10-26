@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "9.0.24",
+	"version": "9.0.25",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -27,11 +27,11 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/html": "workspace:^7.0.23",
+		"@ctx-core/html": "workspace:^7.0.24",
 		"@ctx-core/number": "workspace:^5.0.0"
 	},
 	"devDependencies": {
-		"svelte": "3.29.3",
+		"svelte": "3.29.4",
 		"typescript": "^4.0.3"
 	},
 	"publishConfig": {
