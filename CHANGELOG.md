@@ -1,5 +1,12 @@
 # @ctx-core/polarity
 
+## 9.0.28
+
+### Patch Changes
+
+- svelte: 3.29.6 -> 3.29.7
+  - @ctx-core/html@7.0.27
+
 ## 9.0.27
 
 ### Patch Changes
