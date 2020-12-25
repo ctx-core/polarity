@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 9.0.48
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/html@7.1.15
+  - @ctx-core/number@5.0.5
+
 ## 9.0.47
 
 ### Patch Changes
