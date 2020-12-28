@@ -1,5 +1,5 @@
 import { isNumber } from '@ctx-core/number'
-export function _text__polarity(value) {
+export function _polarity_text(value) {
 	if (!isNumber(value) && !value) return ''
 	const float__value = parseFloat(value)
 	const text__abs__float__value = float__value.toFixed(2)
@@ -8,4 +8,7 @@ export function _text__polarity(value) {
 		? `+${text__abs__float__value}`
 		: text__abs__float__value
 	)
+}
+export {
+	_polarity_text as _text__polarity
 }

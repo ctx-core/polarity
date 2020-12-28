@@ -1,5 +1,12 @@
 # @ctx-core/polarity
 
+## 9.1.0
+
+### Minor Changes
+
+- \_polarity_text as \_text\_\_polarity
+- \_polarity_class as \_class\_\_polarity
+
 ## 9.0.49
 
 ### Patch Changes
