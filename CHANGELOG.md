@@ -1,5 +1,16 @@
 # @ctx-core/polarity
 
+## 10.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/html@8.0.0
+
 ## 9.1.21
 
 ### Patch Changes
