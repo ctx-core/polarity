@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "10.0.3",
+	"version": "10.0.4",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/html": "workspace:^8.0.2",
-		"@ctx-core/number": "workspace:^5.3.1"
+		"@ctx-core/number": "workspace:^5.4.0"
 	},
 	"devDependencies": {
 		"svelte": "3.32.1",

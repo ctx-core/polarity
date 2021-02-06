@@ -1,5 +1,12 @@
 # @ctx-core/polarity
 
+## 10.0.4
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/number@5.4.0
+
 ## 10.0.3
 
 ### Patch Changes
