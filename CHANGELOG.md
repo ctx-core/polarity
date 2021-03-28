@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 10.0.26
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/html@8.0.19
+  - @ctx-core/number@5.4.6
+
 ## 10.0.25
 
 ### Patch Changes
