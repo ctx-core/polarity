@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 10.0.27
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/html@8.0.20
+  - @ctx-core/number@5.4.7
+
 ## 10.0.26
 
 ### Patch Changes
