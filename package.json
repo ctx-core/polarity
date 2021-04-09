@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/html": "workspace:^8.0.22",
-		"@ctx-core/number": "workspace:^5.4.9"
+		"@ctx-core/number": "workspace:^5.4.10"
 	},
 	"devDependencies": {
 		"svelte": "3.37.0",
