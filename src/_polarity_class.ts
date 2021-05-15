@@ -6,7 +6,7 @@ import { isNumber } from '@ctx-core/number'
  * @returns {string}
  * @see [@link https://www.wikiwand.com/en/Sentiment_analysis]
  */
-export function _polarity_class(number) {
+export function _polarity_class(number:number) {
 	return _class({
 		positive: number > 0,
 		neutral: !isNumber(number) || number == 0,

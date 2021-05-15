@@ -1,5 +1,17 @@
 # @ctx-core/polarity
 
+## 10.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/html@8.1.0
+  - @ctx-core/number@5.5.0
+
 ## 10.0.36
 
 ### Patch Changes
