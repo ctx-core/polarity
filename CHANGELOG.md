@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 10.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/html@8.1.2
+  - @ctx-core/number@5.5.2
+
 ## 10.1.1
 
 ### Patch Changes
