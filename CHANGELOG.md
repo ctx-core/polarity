@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 10.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/html@8.2.1
+  - @ctx-core/number@5.6.1
+
 ## 10.2.0
 
 ### Minor Changes
