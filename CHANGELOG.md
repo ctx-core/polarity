@@ -1,5 +1,17 @@
 # @ctx-core/polarity
 
+## 10.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/html@8.2.0
+  - @ctx-core/number@5.6.0
+
 ## 10.1.3
 
 ### Patch Changes
