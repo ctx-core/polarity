@@ -1,5 +1,17 @@
 # @ctx-core/polarity
 
+## 10.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/html@8.3.0
+  - @ctx-core/number@5.7.0
+
 ## 10.2.1
 
 ### Patch Changes
