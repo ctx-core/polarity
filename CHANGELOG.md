@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 10.3.1
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/html@8.3.1
+  - @ctx-core/number@5.7.1
+
 ## 10.3.0
 
 ### Minor Changes
