@@ -1,5 +1,19 @@
 # @ctx-core/polarity
 
+## 11.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/html@9.0.0
+  - @ctx-core/number@6.0.0
+
 ## 10.3.1
 
 ### Patch Changes
@@ -477,7 +491,7 @@
 ### Minor Changes
 
 - \_polarity_text as \_text\_\_polarity
-- \_polarity_class as \_class\_\_polarity
+- \_polarity*class as \class*\_\_polarity
 
 ## 9.0.49
 

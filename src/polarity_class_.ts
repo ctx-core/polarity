@@ -1,4 +1,4 @@
-import { _class } from '@ctx-core/html'
+import { class_ } from '@ctx-core/html'
 import { isNumber } from '@ctx-core/number'
 /**
  * Class list returning one in set {positive, negative, neutral}
@@ -6,8 +6,8 @@ import { isNumber } from '@ctx-core/number'
  * @returns {string}
  * @see [@link https://www.wikiwand.com/en/Sentiment_analysis]
  */
-export function _polarity_class(number:number) {
-	return _class({
+export function polarity_class_(number:number) {
+	return class_({
 		positive: number > 0,
 		neutral: !isNumber(number) || number == 0,
 		negative: number < 0,
@@ -15,5 +15,5 @@ export function _polarity_class(number:number) {
 	})
 }
 export {
-	_polarity_class as _class__polarity
+	polarity_class_ as _class__polarity
 }

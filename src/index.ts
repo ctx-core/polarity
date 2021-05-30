@@ -1,2 +1,2 @@
-export * from './_polarity_class'
-export * from './_polarity_text'
+export * from './polarity_class_'
+export * from './polarity_text_'
