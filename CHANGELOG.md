@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 11.0.1
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/html@9.0.3
+  - @ctx-core/number@6.0.1
+
 ## 11.0.0
 
 ### Major Changes
