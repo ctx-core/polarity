@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 11.0.2
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/html@9.0.4
+  - @ctx-core/number@6.0.2
+
 ## 11.0.1
 
 ### Patch Changes
