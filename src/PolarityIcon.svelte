@@ -2,7 +2,7 @@
 export let polarity = 0
 </script>
 
-<span class="Icon_Polarity {$$props.class||''}">
+<span class="PolarityIcon {$$props.class||''}">
 	{#if polarity > 0}
 		<span class="positive">&uarr;</span>
 	{:else if polarity < 0}

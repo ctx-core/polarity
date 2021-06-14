@@ -1,5 +1,11 @@
 # @ctx-core/polarity
 
+## 12.0.0
+
+### Major Changes
+
+- Icon\_\_Polarity->PolarityIcon
+
 ## 11.0.3
 
 ### Patch Changes
