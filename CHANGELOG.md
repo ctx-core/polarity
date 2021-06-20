@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 13.0.5
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/html@10.0.6
+  - @ctx-core/number@7.0.6
+
 ## 13.0.4
 
 ### Patch Changes
