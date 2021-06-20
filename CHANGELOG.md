@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 13.0.4
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/html@10.0.4
+  - @ctx-core/number@7.0.4
+
 ## 13.0.3
 
 ### Patch Changes
