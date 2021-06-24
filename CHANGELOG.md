@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 13.0.8
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/html@10.0.9
+  - @ctx-core/number@7.0.8
+
 ## 13.0.7
 
 ### Patch Changes
