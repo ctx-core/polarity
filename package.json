@@ -29,7 +29,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/html": "workspace:^11.0.2",
+		"@ctx-core/html": "workspace:^11.0.3",
 		"@ctx-core/number": "workspace:^8.0.2"
 	},
 	"devDependencies": {
