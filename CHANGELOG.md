@@ -1,5 +1,16 @@
 # @ctx-core/polarity
 
+## 14.0.1
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+- fix: "type": "module"
+- Updated dependencies [2a6971f80]
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.1
+  - @ctx-core/number@8.0.1
+
 ## 14.0.0
 
 ### Major Changes
