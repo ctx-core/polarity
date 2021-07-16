@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 14.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.4
+  - @ctx-core/number@8.0.3
+
 ## 14.0.2
 
 ### Patch Changes
