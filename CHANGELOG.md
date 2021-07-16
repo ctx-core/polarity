@@ -1,5 +1,23 @@
 # @ctx-core/polarity
 
+## 14.0.9
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.11
+  - @ctx-core/number@8.0.10
+
+## 14.0.8
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.10
+  - @ctx-core/number@8.0.9
+
 ## 14.0.7
 
 ### Patch Changes

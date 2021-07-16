@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "14.0.7",
+	"version": "14.0.9",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -34,8 +34,8 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/html": "workspace:^11.0.9",
-		"@ctx-core/number": "workspace:^8.0.8",
+		"@ctx-core/html": "workspace:^11.0.11",
+		"@ctx-core/number": "workspace:^8.0.10",
 		"esm": "^3.2.25"
 	},
 	"devDependencies": {
