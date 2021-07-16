@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 14.0.4
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.6
+  - @ctx-core/number@8.0.5
+
 ## 14.0.3
 
 ### Patch Changes
