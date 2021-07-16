@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 14.0.7
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.9
+  - @ctx-core/number@8.0.8
+
 ## 14.0.6
 
 ### Patch Changes
