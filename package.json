@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "14.0.5",
+	"version": "14.0.6",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"main": "./dist/index.js",
+	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"exports": {
@@ -34,8 +34,8 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/html": "workspace:^11.0.7",
-		"@ctx-core/number": "workspace:^8.0.6",
+		"@ctx-core/html": "workspace:^11.0.8",
+		"@ctx-core/number": "workspace:^8.0.7",
 		"esm": "^3.2.25"
 	},
 	"devDependencies": {

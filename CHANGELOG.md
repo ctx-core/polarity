@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 14.0.6
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.8
+  - @ctx-core/number@8.0.7
+
 ## 14.0.5
 
 ### Patch Changes
