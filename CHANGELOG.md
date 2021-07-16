@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 14.0.5
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.7
+  - @ctx-core/number@8.0.6
+
 ## 14.0.4
 
 ### Patch Changes
