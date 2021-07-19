@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 14.0.12
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.13
+  - @ctx-core/number@8.0.12
+
 ## 14.0.11
 
 ### Patch Changes
