@@ -1,5 +1,12 @@
 # @ctx-core/polarity
 
+## 14.0.15
+
+### Patch Changes
+
+- svelte: 3.40.0 -> 3.40.1
+- update dependencies
+
 ## 14.0.14
 
 ### Patch Changes
