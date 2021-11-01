@@ -1,5 +1,15 @@
 # @ctx-core/polarity
 
+## 14.0.29
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- svelte: 3.43.1 -> 3.44.0
+- Updated dependencies [undefined]
+  - @ctx-core/html@11.0.18
+  - @ctx-core/number@8.0.16
+
 ## 14.0.28
 
 ### Patch Changes
