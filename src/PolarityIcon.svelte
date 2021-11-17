@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 export let polarity = 0
 </script>
 

@@ -1,7 +1,4 @@
 import 'svelte'
-import PolarityIcon from './PolarityIcon.svelte'
-export {
-	PolarityIcon
-}
+export * as PolarityIcon from './PolarityIcon.svelte'
 export * from './polarity_class_.js'
 export * from './polarity_text_.js'

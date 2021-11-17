@@ -1,5 +1,11 @@
 # @ctx-core/polarity
 
+## 14.0.33
+
+### Patch Changes
+
+- PolarityIcon: lang=ts
+
 ## 14.0.32
 
 ### Patch Changes
