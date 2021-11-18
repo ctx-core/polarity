@@ -1,5 +1,16 @@
 # @ctx-core/polarity
 
+## 14.0.34
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+- @swc/core: ^1.2.108 -> ^1.2.110
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/html@11.0.21
+  - @ctx-core/number@8.0.19
+
 ## 14.0.33
 
 ### Patch Changes
