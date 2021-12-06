@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 14.0.40
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/html@11.0.28
+  - @ctx-core/number@8.0.25
+
 ## 14.0.39
 
 ### Patch Changes
