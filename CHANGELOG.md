@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 14.0.41
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+  - @ctx-core/html@11.0.29
+  - @ctx-core/number@8.0.26
+
 ## 14.0.40
 
 ### Patch Changes
