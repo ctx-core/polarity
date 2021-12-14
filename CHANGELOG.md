@@ -1,5 +1,11 @@
 # @ctx-core/polarity
 
+## 15.0.0
+
+### Major Changes
+
+- extracted @ctx-core/polarity
+
 ## 14.0.41
 
 ### Patch Changes
