@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.0.1
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/html@11.0.30
+  - @ctx-core/number@8.0.27
+
 ## 15.0.0
 
 ### Major Changes
