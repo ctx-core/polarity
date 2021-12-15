@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.0.3
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/html@11.0.32
+  - @ctx-core/number@8.0.29
+
 ## 15.0.2
 
 ### Patch Changes
