@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "15.0.1",
+	"version": "15.0.2",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/polarity/issues"
+		"url": "https://github.com/ctx-core/polarity.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -32,8 +32,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/html": "workspace:^11.0.30",
-		"@ctx-core/number": "workspace:^8.0.27"
+		"@ctx-core/html": "workspace:^11.0.31",
+		"@ctx-core/number": "workspace:^8.0.28"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
