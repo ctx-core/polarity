@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.0.4
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/html@11.0.33
+  - @ctx-core/number@8.0.30
+
 ## 15.0.3
 
 ### Patch Changes
