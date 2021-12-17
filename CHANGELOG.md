@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.0.7
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/html@11.0.36
+  - @ctx-core/number@8.0.33
+
 ## 15.0.6
 
 ### Patch Changes
