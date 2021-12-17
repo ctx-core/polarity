@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.0.6
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/html@11.0.35
+  - @ctx-core/number@8.0.32
+
 ## 15.0.5
 
 ### Patch Changes
