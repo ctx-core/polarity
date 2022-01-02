@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.0.9
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/html@11.0.38
+  - @ctx-core/number@8.0.35
+
 ## 15.0.8
 
 ### Patch Changes
