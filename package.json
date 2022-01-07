@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "15.0.10",
+	"version": "15.0.11",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -35,12 +35,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/html": "workspace:^11.0.39",
-		"@ctx-core/number": "workspace:^8.0.36"
+		"@ctx-core/html": "workspace:^11.0.40",
+		"@ctx-core/number": "workspace:^8.0.37"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.125",
+		"@swc/core": "^1.2.127",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
