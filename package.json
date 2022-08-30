@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/html": "^11.0.50",
-		"@ctx-core/number": "^8.3.0"
+		"@ctx-core/number": "^8.3.1"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
