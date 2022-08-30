@@ -1,5 +1,5 @@
 import { class_ } from '@ctx-core/html'
-import { isNumber } from '@ctx-core/number'
+import { isNumber_ } from '@ctx-core/number'
 /**
  * Class list returning one in set {positive, negative, neutral}
  * @param number
@@ -9,7 +9,7 @@ import { isNumber } from '@ctx-core/number'
 export function polarity_class_(number:number):string {
 	return class_({
 		positive: number > 0,
-		neutral: !isNumber(number) || number == 0,
+		neutral: !isNumber_(number) || number == 0,
 		negative: number < 0,
 		polarity: true
 	})

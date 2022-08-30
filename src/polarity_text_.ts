@@ -1,6 +1,6 @@
-import { isNumber } from '@ctx-core/number'
+import { isNumber_ } from '@ctx-core/number'
 export function polarity_text_(value:number|string):string {
-	if (!isNumber(value) && !value) return ''
+	if (!isNumber_(value) && !value) return ''
 	const value_float = parseFloat(value as string)
 	const value_float_abs_text = value_float.toFixed(2)
 	return (

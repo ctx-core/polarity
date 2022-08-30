@@ -1,5 +1,11 @@
 # @ctx-core/polarity
 
+## 15.0.24
+
+### Patch Changes
+
+- isNumber\_ instead of isNumber
+
 ## 15.0.23
 
 ### Patch Changes
