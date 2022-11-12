@@ -1,5 +1,11 @@
 # @ctx-core/polarity
 
+## 15.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 15.0.24
 
 ### Patch Changes
