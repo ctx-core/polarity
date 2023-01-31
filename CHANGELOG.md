@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.1.14
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/html@11.0.65
+  - @ctx-core/number@8.6.1
+
 ## 15.1.13
 
 ### Patch Changes
