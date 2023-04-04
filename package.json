@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "15.1.46",
+	"version": "15.1.47",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/html": "^11.2.8",
-		"@ctx-core/number": "^8.6.2"
+		"@ctx-core/number": "^8.6.3"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
