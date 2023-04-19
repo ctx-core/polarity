@@ -1,5 +1,11 @@
 # @ctx-core/polarity
 
+## 15.1.70
+
+### Patch Changes
+
+- fix: + \*.js files
+
 ## 15.1.69
 
 ### Patch Changes
