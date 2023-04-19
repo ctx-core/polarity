@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.1.69
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/html@11.2.30
+  - @ctx-core/number@8.6.22
+
 ## 15.1.68
 
 ### Patch Changes
