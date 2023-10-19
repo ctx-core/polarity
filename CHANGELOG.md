@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.1.92
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- Updated dependencies
+  - @ctx-core/html@11.5.1
+  - @ctx-core/number@8.6.24
+
 ## 15.1.91
 
 ### Patch Changes
