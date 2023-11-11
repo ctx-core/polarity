@@ -5,8 +5,8 @@ export function polarity_text_(value) {
 	const value_float_abs_text = value_float.toFixed(2)
 	return (
 		value_float > 0
-		? `+${value_float_abs_text}`
-		: value_float_abs_text
+			? `+${value_float_abs_text}`
+			: value_float_abs_text
 	)
 }
 export {

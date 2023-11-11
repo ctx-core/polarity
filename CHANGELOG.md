@@ -1,5 +1,25 @@
 # @ctx-core/polarity
 
+## 15.2.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/html@11.6.0
+  - @ctx-core/number@8.7.0
+
 ## 15.1.96
 
 ### Patch Changes
