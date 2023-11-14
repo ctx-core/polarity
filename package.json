@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "15.2.2",
+	"version": "15.2.3",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.js",
 		"*.json",
 		"./polarity_class_",
 		"./polarity_text_"
@@ -38,8 +39,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/html": "^11.6.2",
-		"@ctx-core/number": "^8.7.2"
+		"@ctx-core/html": "^11.6.3",
+		"@ctx-core/number": "^8.7.3"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
