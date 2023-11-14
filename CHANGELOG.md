@@ -1,5 +1,14 @@
 # @ctx-core/polarity
 
+## 15.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/html@11.6.2
+  - @ctx-core/number@8.7.2
+
 ## 15.2.1
 
 ### Patch Changes
