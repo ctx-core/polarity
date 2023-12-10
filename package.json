@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity",
-	"version": "15.2.40",
+	"version": "15.2.41",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -39,8 +39,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/html": "^11.6.39",
-		"@ctx-core/number": "^8.7.39"
+		"@ctx-core/html": "^11.6.40",
+		"@ctx-core/number": "^8.7.40"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
