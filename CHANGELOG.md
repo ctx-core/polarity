@@ -1,5 +1,13 @@
 # @ctx-core/polarity
 
+## 15.2.71
+
+### Patch Changes
+
+- ctx-core: ^5.5.0 -> ^5.6.0
+- Updated dependencies
+  - ctx-core@5.6.1
+
 ## 15.2.70
 
 ### Patch Changes
