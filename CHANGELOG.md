@@ -1,5 +1,11 @@
 # @ctx-core/polarity
 
+## 15.2.134
+
+### Patch Changes
+
+- ctx-core: ^5.38.1 -> ^5.38.2
+
 ## 15.2.133
 
 ### Patch Changes
