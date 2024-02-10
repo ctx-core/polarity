@@ -1,5 +1,13 @@
 # @ctx-core/polarity
 
+## 15.2.138
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+- Updated dependencies
+  - ctx-core@6.1.2
+
 ## 15.2.137
 
 ### Patch Changes
